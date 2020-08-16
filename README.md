@@ -1,1 +1,1 @@
-# HTML-CSS-JS-Practice
+# Web pages practice using html, css and native js
