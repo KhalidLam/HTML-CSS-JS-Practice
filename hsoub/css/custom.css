@@ -1,0 +1,80 @@
+@font-face { font-family: fontLight; src: url('../fonts/dinnextltarabic_ligh.ttf'); } 
+@font-face { font-family: fontBold; src: url('../fonts/dinnextltarabic_Medium.ttf'); } 
+
+.clr-white {
+    color: #FFF;
+}
+.font-bold {
+    font-family: "fontBold", sans-serif;
+}
+.no-margin {
+    margin: 0;
+}
+@media (min-width: 992px){
+    .col-md-6 {
+        float: right;
+    }
+}
+body {
+    padding-top: 50px;
+    font-family: fontLight, sans-serif;
+}
+
+.menu-header {
+    background-color: #0b2d14;
+    padding-bottom: 8px;
+    padding-top: 8px;
+}
+
+.menu-header li{
+    font-size: 14px;
+    padding-right: 20px;
+}
+
+.menu-header li a:hover{   
+    text-decoration: none;
+    opacity: .8 ;
+}
+
+a.navbar-brand {
+    padding: 10px 20px;
+}
+
+a.navbar-brand img {
+    width: 80%;
+
+}
+
+.active a{
+    background-color: #3d9847 !important;
+    font-size: 13px;
+    padding: 8px 30px 8px !important;
+    margin-top: 6px;
+    border-radius: 4px;
+    border: 1px solid transparent;
+}
+
+.navbar-inverse .navbar-nav>li>a{
+    color: #FFF;
+}
+
+a{
+    color: inherit;
+}
+/* ----------------- */
+.bg-header{
+    background: #0c3517;
+    padding-top: 130px;
+    padding-bottom: 133px;
+    margin-bottom: 70px;
+}
+.jumbotron .txt ul {
+    padding-top: 50px;
+}
+.list{
+    text-align: right;
+    font-size: 18px;
+    margin-bottom: 15px;
+    color: #749384;
+    padding-right: 20px;
+}

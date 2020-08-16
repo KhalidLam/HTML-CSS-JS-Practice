@@ -1,0 +1,30 @@
+body {
+  background-color: #F7F7F9;
+}
+
+.navbar-brand img{
+  height: 30px;
+  width: 30px;
+}
+.navbar-brand{
+padding-top: 10px;
+padding-bottom: 10px;
+}
+.container{
+  padding-top: 30px;
+}
+.thumbnail{
+  margin-bottom: 0px;
+  background-color: rgba(75, 75, 75, 0);
+  border: 1px solid ;
+}
+.row{
+  text-align: center;
+}
+.row img{
+  width: 132px;
+  height: 160px;
+}
+.last_skan{
+
+}
